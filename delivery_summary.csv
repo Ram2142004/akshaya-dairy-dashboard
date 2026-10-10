@@ -1,0 +1,7 @@
+"Delivery Status","Delivery Option",Total_Orders,Total_Quantity,Total_Sales
+Delivered,Transport,71824,275287,2417994831.00
+"Picked Up","Self Pickup",26176,76658,813021813.00
+Cancelled,Transport,1077,4438,36888372.00
+Cancelled,"Self Pickup",410,1195,13806667.00
+Returned,Transport,379,1624,13057423.00
+Returned,"Self Pickup",134,426,4490338.00
